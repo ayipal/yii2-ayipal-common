@@ -29,7 +29,7 @@
  * POSSIBILITY OF SUCH DAMAGE.
  */
 
-namespace abexto\ayipal\common\base;
+namespace abexto\logeia\common\base;
 
 /**
  * Abstract wrapper component for object instances
